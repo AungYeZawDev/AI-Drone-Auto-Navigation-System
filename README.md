@@ -12,6 +12,10 @@ This is a comprehensive simulation of an autonomous drone navigation system that
 - Environmental disturbances with multiple wind scenarios
 - Web interface for controlling simulation parameters
 
+## Web Interface
+
+Project Page: [AI-Drone-Auto-Navigation-System](https://drone.thanlar.com)
+
 ## 📊 Simulation Plots
 
 Below are flight result plots generated from the simulation.
