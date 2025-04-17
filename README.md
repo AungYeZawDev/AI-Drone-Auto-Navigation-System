@@ -15,6 +15,9 @@ This is a comprehensive simulation of an autonomous drone navigation system that
 ## Web Interface
 
 Project Page: [AI-Drone-Auto-Navigation-System](https://drone.thanlar.com)
+<div align="center">
+  <img src="images/screen-shot.png" width="60%"/>
+</div>
 
 ## 📊 Simulation Plots
 
